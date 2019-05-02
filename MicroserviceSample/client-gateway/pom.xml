@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hello-web-client-service</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>client-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>client-gateway</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
