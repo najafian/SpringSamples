@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroserviceSample.iml" filepath="$PROJECT_DIR$/.idea/MicroserviceSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-gateway/client-gateway.iml" filepath="$PROJECT_DIR$/client-gateway/client-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/demo.iml" filepath="$PROJECT_DIR$/registry/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-gateway/demo (2) (com.hello-web-client-service).iml" filepath="$PROJECT_DIR$/client-gateway/demo (2) (com.hello-web-client-service).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service/src/main/main.iml" filepath="$PROJECT_DIR$/hello-service/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service1/service1.iml" filepath="$PROJECT_DIR$/service1/service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service/src/test/test.iml" filepath="$PROJECT_DIR$/hello-service/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

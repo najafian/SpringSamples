@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="client-gateway" />
+        <module name="service1" />
+        <module name="registry" />
+        <module name="demo (2) (com.hello-web-client-service)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-gateway" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo (1) (com.hello-service)" target="1.8" />
+      <module name="demo (2) (com.hello-web-client-service)" target="1.8" />
+      <module name="registry" target="1.8" />
+      <module name="service1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="client-gateway" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo (1) (com.hello-service)" options="-parameters" />
+      <module name="demo (2) (com.hello-web-client-service)" options="-parameters" />
+      <module name="registry" options="-parameters" />
+      <module name="service1" options="-parameters" />
+    </option>
+  </component>
+</project>
